@@ -1,3 +1,4 @@
+```
 Soluția propusă folosește urmatoarea structură pentru thread-uri:
     - tid, 
     - priority (util pentru deciderea următorului thread),
@@ -19,3 +20,4 @@ mai multor funcții ajutătoare pentru a ușura citirea codului.
 
 Descrierea pentru cele 5 funcții so menționate (fără so_signal) se află
 în comentariile din "so_scheduler.c".
+```
